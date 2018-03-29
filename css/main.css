@@ -1,0 +1,12 @@
+td {
+  height: 9em;
+  border: 1px solid #ccc;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+li {
+  list-style-type: none;
+}
