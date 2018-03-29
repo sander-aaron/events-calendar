@@ -1,3 +1,11 @@
+html {
+  font-family: "Merriweather", serif;
+}
+
+th {
+  border: 1px solid #ccc;
+}
+
 td {
   height: 9em;
   border: 1px solid #ccc;
@@ -7,6 +15,30 @@ table {
   border: 1px solid #ccc;
 }
 
-li {
-  list-style-type: none;
+.grey {
+  border: 1px solid #666;
+  border-radius: 6px;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.red {
+  border: 1px solid #b92828;
+  border-radius: 6px;
+  background-color: #f2bcbc;
+  color: #991919;
+}
+
+.green {
+  border: 1px solid #6b7e54;
+  border-radius: 6px;
+  background-color: #d1e0bf;
+  color: #51603f;
+}
+
+.blue {
+  border: 1px solid #1d38da;
+  border-radius: 6px;
+  background-color: #d2d6f0;
+  color: #38448e;
 }
